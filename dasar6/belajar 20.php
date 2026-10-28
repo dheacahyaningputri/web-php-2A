@@ -4,11 +4,11 @@ $siswa = array();
 $kelas = [];
  
 // membuat array sekaligus mengisinya
-$siswa = array("Ani", "Anton", "Sigit");
-$kelas = [10, 11, 12];
+$siswa = array("Ani", "Anton", "Kayla");
+$kelas = [10, 11, 12];gi
  
 // membuat array dengan mengisi indeks tertentu
-$siswa[0] = "Dian";
+$siswa[0] = "Diva";
 $siswa[1] = "Andy";
 $siswa[2] = "Rudy";
  

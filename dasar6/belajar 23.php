@@ -2,15 +2,15 @@
 // membuat array 2 dimensi yang berisi array asosiatif
 $artikel = [
     [
-        "judul" => "Modul Pemrograman Mobile",
+        "judul" => "Novel Labirin Hati yang Dingin",
         "penulis" => "Dhea Cahyaning Putri"
     ],
     [
-        "judul" => "Modul Dasar Pemrograman dengan C++",
+        "judul" => "Novel Labirin Hati yang Dingin",
         "penulis" => "Dhea Cahyaning Putri"
     ],
     [
-        "judul" => "Panduan Block Programming dengan SCRATCH",
+        "judul" => "Novel Labirin Hati yang Dingin",
         "penulis" => "Dhea Cahyaning Putri"
     ]
 ];

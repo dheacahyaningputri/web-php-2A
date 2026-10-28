@@ -24,10 +24,10 @@ foreach($barang as $item) {
 }
 
 //menambahkan Pencil pada indeks ke-2
-$barang[2]="Pencil";
+$barang[2]="Pensil";
  
 //menambahkan Penggaris di indeks terakhir
-$barang[]="Penggaris";
+$barang[]="pensil";
  
 echo "<h3>Data setelah Ditambah</h3>";
 foreach($barang as $item) {
