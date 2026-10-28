@@ -1,6 +1,6 @@
 <?php
 // membuat array
-$barang = ["Buku", "Penghapus", "Pencil"];
+$barang = ["Buku", "Penghapus", "pensil"];
  
 // menampilkan isi array
 echo "<h3>Dengan nomor indeks</h3>";

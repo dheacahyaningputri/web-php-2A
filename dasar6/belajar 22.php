@@ -2,8 +2,8 @@
 // membuat array asosiatif
 $artikel = [
     "judul" => "Modul Pemorgraman Mobile",
-    "penulis" => "Rudy Eko Prasetya",
-    "jumlah_halaman" => 110
+    "penulis" => "Dhea Cahyaning Putri",
+    "jumlah_halaman" => 200
 ];
  
 // mencetak isi array assosiatif

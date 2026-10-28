@@ -3,15 +3,15 @@
 $artikel = [
     [
         "judul" => "Modul Pemrograman Mobile",
-        "penulis" => "Rudy Eko Prasetya"
+        "penulis" => "Dhea Cahyaning Putri"
     ],
     [
         "judul" => "Modul Dasar Pemrograman dengan C++",
-        "penulis" => "Rudy Eko Prasetya"
+        "penulis" => "Dhea Cahyaning Putri"
     ],
     [
         "judul" => "Panduan Block Programming dengan SCRATCH",
-        "penulis" => "Rudy Eko Prasetya"
+        "penulis" => "Dhea Cahyaning Putri"
     ]
 ];
  
