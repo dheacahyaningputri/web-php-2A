@@ -1,4 +1,4 @@
-?php
+<?php
 // membuat array kosong
 $siswa = array();
 $kelas = [];
